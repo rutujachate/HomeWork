@@ -19,6 +19,4 @@ public class UserNamePromt {
 	        sc.close();
 	    }
 	
-
-
 }
